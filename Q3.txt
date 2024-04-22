@@ -3,6 +3,7 @@ Question 1
 4
 
 
+
 Question 2
 False
 python is not a compiled language. It is a script language.
